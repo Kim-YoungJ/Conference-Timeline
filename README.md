@@ -9,7 +9,7 @@ Built with [Tauri 2](https://tauri.app) + React + TypeScript. Runs on **Windows,
 ## Demo
 
 ![App walkthrough — tracking a conference, adding one manually, map view, journal kanban](docs/demo-mcp.gif)
-
+![App walkthrough — tracking a conference, adding one manually, map view, journal kanban](docs/demo.gif)
 ## Features
 
 ### 📅 Timeline
