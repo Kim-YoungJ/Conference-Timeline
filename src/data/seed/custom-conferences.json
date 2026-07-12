@@ -1,0 +1,95 @@
+[
+  {
+    "slug": "cdc",
+    "title": "CDC",
+    "fullName": "IEEE Conference on Decision and Control",
+    "rank": "CORE A",
+    "source": "custom",
+    "years": [
+      {
+        "id": "cdc26",
+        "year": 2026,
+        "link": "https://cdc2026.ieeecss.org/",
+        "deadline": "2026-03-31T23:59:59Z",
+        "dateText": "Dec 15-18, 2026",
+        "place": "Honolulu, Hawaii, USA",
+        "lat": 21.31,
+        "lng": -157.86
+      }
+    ]
+  },
+  {
+    "slug": "acc",
+    "title": "ACC",
+    "fullName": "American Control Conference",
+    "source": "custom",
+    "years": [
+      {
+        "id": "acc27",
+        "year": 2027,
+        "link": "https://acc2027.a2c2.org/",
+        "deadline": null,
+        "dateText": "Jul 7-9, 2027",
+        "place": "Philadelphia, USA",
+        "lat": 39.95,
+        "lng": -75.17
+      }
+    ]
+  },
+  {
+    "slug": "aiaa-scitech",
+    "title": "AIAA SciTech",
+    "fullName": "AIAA Science and Technology Forum and Exposition",
+    "source": "custom",
+    "years": [
+      {
+        "id": "scitech27",
+        "year": 2027,
+        "link": "https://aiaa.org/scitech",
+        "deadline": "2026-05-21T23:59:59Z",
+        "abstractDeadline": "2026-05-21T23:59:59Z",
+        "dateText": "Jan 11-15, 2027",
+        "place": "Orlando, Florida, USA",
+        "lat": 28.54,
+        "lng": -81.38
+      }
+    ]
+  },
+  {
+    "slug": "iac",
+    "title": "IAC",
+    "fullName": "International Astronautical Congress",
+    "source": "custom",
+    "years": [
+      {
+        "id": "iac26",
+        "year": 2026,
+        "link": "https://www.iac2026.org/",
+        "deadline": "2026-02-28T23:59:59Z",
+        "abstractDeadline": "2026-02-28T23:59:59Z",
+        "dateText": "Oct 5-9, 2026",
+        "place": "Antalya, Türkiye",
+        "lat": 36.9,
+        "lng": 30.71
+      }
+    ]
+  },
+  {
+    "slug": "aiaa-ascend",
+    "title": "AIAA ASCEND",
+    "fullName": "AIAA ASCEND (Accelerating Space Commerce, Exploration, and New Discovery)",
+    "source": "custom",
+    "years": [
+      {
+        "id": "ascend26",
+        "year": 2026,
+        "link": "https://www.ascend.events/",
+        "deadline": null,
+        "dateText": "2026",
+        "place": "Las Vegas, USA",
+        "lat": 36.17,
+        "lng": -115.14
+      }
+    ]
+  }
+]
